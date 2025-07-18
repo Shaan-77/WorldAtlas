@@ -1,4 +1,4 @@
-🌍 WorldAtlas – A React-Based Country Discovery Application
+## 🌍 WorldAtlas – A React-Based Country Discovery Application
 
 Country Explorer is a beautifully designed frontend web application developed using React.js, allowing users to discover and explore countries from around the world. The project integrates with an external REST API to dynamically fetch and display detailed information about each country, including its history, culture, and regional highlights.
 
